@@ -1,1 +1,1 @@
-# Dynamic-Grade-Statistics-Calculator
+A Python program that allows users to enter an unlimited number of grades until they choose to exit. The application calculates the total sum of grades, the class average, and identifies the highest and lowest grades entered. This project demonstrates the use of while loops, user-controlled program flow, conditional statements, and basic statistical calculations.
